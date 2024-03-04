@@ -2,6 +2,13 @@
     internal class Program {
         static void Main(string[] args) {
             Console.WriteLine("Hola, World!");
+            Console.WriteLine("Soy el estudiante A");
+            Console.WriteLine("Soy el estudiante A");
+            Console.WriteLine("Soy el estudiante A");
+            Console.WriteLine("Soy el estudiante A");
+            Console.WriteLine("Soy el estudiante A");
+            Console.WriteLine("Soy el estudiante A");
+            Console.WriteLine("Soy el estudiante A");
         }
     }
 }
