@@ -4,7 +4,7 @@
 
             Console.WriteLine("HelloooooSS, World!");
 
-            Console.WriteLine("Hola, World!");
+            Console.WriteLine("Tipo 2 Hola, World!");
 
         }
     }
